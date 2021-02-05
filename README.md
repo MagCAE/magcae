@@ -9,6 +9,6 @@ Or create a cloned virtual environment:
 
 pip install -r req_freeze.txt
 
-To run MagCAE, use command to simply run a demo on cora dataset:
+To run a demo on Cora dataset, use command:
 
 python src/main.py --dataset cora
